@@ -21,7 +21,7 @@ allprojects {
 
         appcompat_library_version = '24.2.0'
         support_library_version = '23.2.1'
-        gms_library_version = '9.4.0'
+        gms_library_version = '32.0.0'
 
         guava_version = '19.0'
         dagger_version = '2.6.1'
